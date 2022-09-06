@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.95321268"
-     inkscape:cx="368.22842"
-     inkscape:cy="179.39333"
+     inkscape:zoom="1.5433538"
+     inkscape:cx="274.40241"
+     inkscape:cy="140.60289"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g3512" />
   <defs
      id="defs3023" />
   <g
@@ -41,856 +41,1602 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="98.826721"
-       y="36.721367"
-       id="text856"><tspan
+       style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+       x="24.34363"
+       y="9.771739"
+       id="text2877"><tspan
          sodipodi:role="line"
-         id="tspan854"
-         x="98.826721"
-         y="36.721367"
-         style="font-size:1.41111px;stroke-width:0.0979309">Phone Number 2</tspan></text>
-    <text
-       id="text872"
-       y="36.608498"
-       x="61.344704"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="36.608498"
-         x="61.344704"
-         id="tspan870"
-         sodipodi:role="line">Phone Number</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0983138"
-       x="60.892574"
-       y="44.222504"
-       id="text880"
-       transform="scale(1.0040507,0.99596565)"><tspan
+         id="tspan2875"
+         style="stroke-width:0.264583"
+         x="24.34363"
+         y="9.771739">Individual form</tspan><tspan
          sodipodi:role="line"
-         id="tspan878"
-         x="60.892574"
-         y="44.222504"
-         style="font-size:1.41111px;stroke-width:0.0983138">Email</tspan></text>
-    <rect
-       y="63.192848"
-       x="60.869629"
-       height="3.2202959"
-       width="29.377207"
-       id="rect1150"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.088;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.088;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1180"
-       width="29.377207"
-       height="3.2202959"
-       x="98.440437"
-       y="63.192848" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.20005"
-       y="62.460281"
-       id="text831-8"><tspan
-         sodipodi:role="line"
-         id="tspan829-1"
-         x="61.20005"
-         y="62.460281"
-         style="font-size:1.30575px;stroke-width:0.0979309">Township</tspan></text>
-    <text
-       id="text1203"
-       y="62.460281"
-       x="98.770927"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.30575px;stroke-width:0.0979309"
-         y="62.460281"
-         x="98.770927"
-         id="tspan1201"
-         sodipodi:role="line">District / City</tspan></text>
-    <rect
-       y="37.792778"
-       x="60.869629"
-       height="3.2202959"
-       width="29.377207"
-       id="rect1100"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0880001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0880001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1102"
-       width="29.377207"
-       height="3.2202959"
-       x="98.440437"
-       y="37.792778" />
-    <text
-       id="text1285"
-       y="32.215355"
-       x="61.691826"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0979309"
-         y="32.215355"
-         x="61.691826"
-         id="tspan1283"
-         sodipodi:role="line">Contact Details</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.79917px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.162659"
-       y="58.673698"
-       id="text1291"><tspan
-         sodipodi:role="line"
-         id="tspan1289"
-         x="61.162659"
-         y="58.673698"
-         style="font-size:1.79917px;stroke-width:0.0979309">Physical Addres</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.268173"
-       y="97.206306"
-       id="text1302"><tspan
-         sodipodi:role="line"
-         id="tspan1300"
-         x="61.268173"
-         y="97.206306"
-         style="stroke-width:0.0979309">Postal Address</tspan></text>
-    <text
-       id="text1314"
-       y="69.339386"
-       x="61.729218"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.30575px;stroke-width:0.0979309"
-         y="69.339386"
-         x="61.729218"
-         id="tspan1312"
-         sodipodi:role="line">Country</tspan></text>
-    <text
-       id="text1318"
-       y="77.703621"
-       x="61.45739"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="77.703621"
-         x="61.45739"
-         id="tspan1316"
-         sodipodi:role="line">District in Which Individual / Company Is Currently Based </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.427238"
-       y="101.04907"
-       id="text1344"><tspan
-         sodipodi:role="line"
-         id="tspan1342"
-         x="61.427238"
-         y="101.04907"
-         style="font-size:1.41111px;stroke-width:0.0979309">Address</tspan></text>
-    <rect
-       y="129.09999"
-       x="60.548355"
-       height="21.999289"
-       width="66.177559"
-       id="rect1354"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.111543;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       id="text1483"
-       y="108.82855"
-       x="61.140053"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="108.82855"
-         x="61.140053"
-         id="tspan1481"
-         sodipodi:role="line">Country</tspan><tspan
-         y="411.65277"
-         x="61.140053"
-         sodipodi:role="line"
-         id="tspan1086"
-         style="font-size:1.41111px;stroke-width:0.0979309" /></text>
-    <text
-       id="text1348"
-       y="122.59316"
-       x="61.458595"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0979309"
-         y="122.59316"
-         x="61.458595"
-         id="tspan1346"
-         sodipodi:role="line">OWNERSHIP DETAILS </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="60.732063"
-       y="127.49325"
-       id="text1521"><tspan
-         sodipodi:role="line"
-         id="tspan1519"
-         x="60.732063"
-         y="127.49325"
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583">What skill set do you/company have that are relavent to the business?</tspan><tspan
-         sodipodi:role="line"
-         x="60.732063"
-         y="128.90437"
-         id="tspan1525"
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583" /></text>
+         style="stroke-width:0.264583"
+         x="24.34363"
+         y="13.740489"
+         id="tspan2879"> </tspan></text>
     <g
-       id="g1541"
-       transform="translate(-4.6205088,-73.156544)">
-      <text
-         id="text1539"
-         y="236.49542"
-         x="66.079102"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.0979309"
+       id="g3512">
+      <g
+         id="g1541"
+         transform="matrix(1,0,0,1.9656205,-41.434228,-288.19793)">
+        <text
+           id="text1539"
            y="236.49542"
            x="66.079102"
-           id="tspan1537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.82804px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.0979309"
+             y="236.49542"
+             x="66.079102"
+             id="tspan1537"
+             sodipodi:role="line">Technology Information </tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.70494px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187723"
+         x="29.175076"
+         y="151.68695"
+         id="text1575"
+         transform="scale(0.81325879,1.2296209)"><tspan
+           sodipodi:role="line"
+           id="tspan1573"
+           x="29.175076"
+           y="151.68695"
+           style="font-size:2.70494px;stroke-width:0.187723">Technology Information sector (Indicate relevant option)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.55735px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.177481"
+         x="35.922798"
+         y="163.75114"
+         id="text1619"
+         transform="scale(0.86019115,1.1625323)"><tspan
+           sodipodi:role="line"
+           id="tspan1617"
+           x="35.922798"
+           y="163.75114"
+           style="font-size:2.55735px;stroke-width:0.177481">Information Technology</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1621"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.82093"
+         y="188.87032" />
+      <text
+         id="text1625"
+         y="195.22746"
+         x="31.541729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.23487px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.155101"
+         xml:space="preserve"
+         transform="scale(0.98431134,1.0159387)"><tspan
+           style="font-size:2.23487px;stroke-width:0.155101"
+           y="195.22746"
+           x="31.541729"
+           id="tspan1623"
+           sodipodi:role="line">Agriculture</tspan></text>
+      <rect
+         y="196.24246"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect1627"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.09927px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14569"
+         x="29.627838"
+         y="211.91954"
+         id="text1631"
+         transform="scale(1.0478956,0.95429352)"><tspan
+           sodipodi:role="line"
+           id="tspan1629"
+           x="29.627838"
+           y="211.91954"
+           style="font-size:2.09927px;stroke-width:0.14569">Health</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1633"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.97732"
+         y="200.33977" />
+      <text
+         id="text1637"
+         y="191.77078"
+         x="31.541729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.23487px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.155101"
+         xml:space="preserve"
+         transform="scale(0.98431134,1.0159387)"><tspan
+           style="font-size:2.23487px;stroke-width:0.155101"
+           y="191.77078"
+           x="31.541729"
+           id="tspan1635"
+           sodipodi:role="line">Energy and Renewable Resource</tspan></text>
+      <rect
+         y="192.73082"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect1639"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.146472;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1641"
+         width="103.16584"
+         height="24.333767"
+         x="23.429676"
+         y="213.38023" />
+      <text
+         id="text1647"
+         y="215.02084"
+         x="22.2733"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.14044px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.401333"
+         xml:space="preserve"
+         transform="scale(1.0277387,0.97300998)"><tspan
+           style="font-size:2.14044px;line-height:1;stroke-width:0.401333"
+           y="215.02084"
+           x="22.2733"
+           id="tspan1643"
+           sodipodi:role="line">Technology Offering (What product/ service does ypur company offer? Also describe the innovative</tspan><tspan
+           style="font-size:2.14044px;line-height:1;stroke-width:0.401333"
+           y="217.16129"
+           x="22.2733"
+           sodipodi:role="line"
+           id="tspan1649">technology used)</tspan><tspan
+           id="tspan1645"
+           y="219.30173"
+           x="22.2733"
+           sodipodi:role="line"
+           style="font-size:2.14044px;line-height:1;stroke-width:0.401333" /></text>
+      <text
+         id="text1653"
+         y="287.87302"
+         x="19.986122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="287.87302"
+           x="19.986122"
+           id="tspan1651"
+           sodipodi:role="line">Stageof Development (Select relevant options) *</tspan></text>
+      <text
+         id="text1657"
+         y="292.35501"
+         x="26.028725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="292.35501"
+           x="26.028725"
+           id="tspan1655"
+           sodipodi:role="line">Idea</tspan></text>
+      <rect
+         y="244.47513"
+         x="23.82093"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect1659"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         x="26.152052"
+         y="300.83398"
+         id="text1663"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           sodipodi:role="line"
+           id="tspan1661"
+           x="26.152052"
+           y="300.83398"
+           style="font-size:1.85299px;stroke-width:0.128598">Research and Development</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1665"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.97732"
+         y="251.84724" />
+      <text
+         id="text1669"
+         y="305.69815"
+         x="26.152052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="305.69815"
+           x="26.152052"
+           id="tspan1667"
+           sodipodi:role="line">Markert Ready</tspan></text>
+      <rect
+         y="255.94449"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect1671"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         x="26.152052"
+         y="296.66504"
+         id="text1675"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           sodipodi:role="line"
+           id="tspan1673"
+           x="26.152052"
+           y="296.66504"
+           style="font-size:1.85299px;stroke-width:0.128598">Product refinement</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1677"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.97732"
+         y="248.33565" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         x="26.028725"
+         y="309.72672"
+         id="text1681"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           sodipodi:role="line"
+           id="tspan1679"
+           x="26.028725"
+           y="309.72672"
+           style="font-size:1.85299px;stroke-width:0.128598">Piloting</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1683"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.82093"
+         y="259.108" />
+      <text
+         id="text1687"
+         y="318.2059"
+         x="26.152052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="318.2059"
+           x="26.152052"
+           id="tspan1685"
+           sodipodi:role="line">Prototype</tspan></text>
+      <rect
+         y="266.48022"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect1689"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text1699"
+         y="314.0368"
+         x="26.152052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="314.0368"
+           x="26.152052"
+           id="tspan1697"
+           sodipodi:role="line">Proof of Concept</tspan></text>
+      <rect
+         y="262.96857"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect1701"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.44082px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.169393"
+         x="26.326336"
+         y="257.56531"
+         id="text1705"
+         transform="scale(0.90126051,1.1095571)"><tspan
+           sodipodi:role="line"
+           id="tspan1703"
+           x="26.326336"
+           y="257.56531"
+           style="font-size:2.44082px;stroke-width:0.169393">Finances</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0614795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1713"
+         width="103.21006"
+         height="0.21538649"
+         x="23.663458"
+         y="286.49356"
+         ry="0" />
+      <text
+         id="text1730"
+         y="257.40744"
+         x="27.253939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.48611px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172537"
+         xml:space="preserve"
+         transform="scale(0.88484065,1.130147)"><tspan
+           style="font-size:2.48611px;stroke-width:0.172537"
+           y="257.40744"
+           x="27.253939"
+           id="tspan1728"
+           sodipodi:role="line">How much have you invested in the idea to date? * </tspan></text>
+      <text
+         id="text1778"
+         y="269.18323"
+         x="26.653603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.47096px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.171486"
+         xml:space="preserve"
+         transform="scale(0.8902412,1.1232911)"><tspan
+           style="font-size:2.47096px;stroke-width:0.171486"
+           y="269.18323"
+           x="26.653603"
+           id="tspan1776"
+           sodipodi:role="line">Market</tspan></text>
+      <rect
+         ry="0"
+         y="303.75494"
+         x="23.664709"
+         height="0.23037237"
+         width="103.20757"
+         id="rect1780"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0635815;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         y="311.94955"
+         x="23.430933"
+         height="26.026829"
+         width="103.16335"
+         id="rect1786"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15148;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88651px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200325"
+         x="31.645807"
+         y="234.95566"
+         id="text1790"
+         transform="scale(0.76207982,1.3121985)"><tspan
+           sodipodi:role="line"
+           id="tspan1788"
+           x="31.645807"
+           y="234.95566"
+           style="font-size:2.88651px;stroke-width:0.200325">Describe your market in terms of size, geographic location, demographics </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.849px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.197722"
+         x="30.72901"
+         y="276.6629"
+         id="text1794"
+         transform="scale(0.77213315,1.2951134)"><tspan
+           sodipodi:role="line"
+           id="tspan1792"
+           x="30.72901"
+           y="276.6629"
+           style="font-size:2.849px;stroke-width:0.197722">Competitive Advantage</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0614795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1796"
+         width="103.21006"
+         height="0.21538649"
+         x="21.777683"
+         y="360.19913"
+         ry="0" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.146472;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1798"
+         width="103.16584"
+         height="24.333767"
+         x="21.715336"
+         y="371.87476" />
+      <text
+         id="text1802"
+         y="290.35181"
+         x="27.91584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78398px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.193209"
+         xml:space="preserve"
+         transform="scale(0.79016728,1.2655548)"><tspan
+           style="font-size:2.78398px;stroke-width:0.193209"
+           y="290.35181"
+           x="27.91584"
+           id="tspan1800"
+           sodipodi:role="line">What problems (s) would your service or product solve </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.48611px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172537"
+         x="24.154007"
+         y="357.15234"
+         id="text1806"
+         transform="scale(0.88484065,1.130147)"><tspan
+           sodipodi:role="line"
+           x="24.154007"
+           y="357.15234"
+           style="font-size:2.48611px;stroke-width:0.172537"
+           id="tspan1808">Who are your competitors </tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.131315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1812"
+         width="106.00364"
+         height="10.535755"
+         x="20.214468"
+         y="408.22333" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.3123px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.433557"
+         x="20.639799"
+         y="404.21396"
+         id="text1816"
+         transform="scale(0.95135084,1.0511369)"><tspan
+           sodipodi:role="line"
+           x="20.639799"
+           y="404.21396"
+           style="font-size:2.3123px;line-height:1;stroke-width:0.433557"
+           id="tspan1818">How will your product compare to that of your competitors? e.g </tspan><tspan
+           sodipodi:role="line"
+           x="20.639799"
+           y="406.52625"
+           style="font-size:2.3123px;line-height:1;stroke-width:0.433557"
+           id="tspan1822">Usefulness, cost, technological innovation time-to-market, accessibility</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10464px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39462"
+         x="17.007948"
+         y="488.75446"
+         id="text1828"
+         transform="scale(1.0452199,0.95673646)"><tspan
+           sodipodi:role="line"
+           x="17.007948"
+           y="488.75446"
+           style="font-size:2.10464px;line-height:1;stroke-width:0.39462"
+           id="tspan1830">EXPECTED SUPPORT FROM THE RELEVENT THE INNOVATION HUB BUSINESS INCUBATOR</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.228042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1860"
+         width="110.42593"
+         height="30.501478"
+         x="20.271877"
+         y="430.33487" />
+      <rect
+         y="481.94769"
+         x="18.2766"
+         height="30.501478"
+         width="110.42593"
+         id="rect1868"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.228042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31097px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.433308"
+         x="17.960352"
+         y="447.21649"
+         id="text1872"
+         transform="scale(0.95189765,1.0505331)"><tspan
+           sodipodi:role="line"
+           id="tspan1870"
+           x="17.960352"
+           y="447.21649"
+           style="font-size:2.31097px;stroke-width:0.433308" /><tspan
+           sodipodi:role="line"
+           x="17.960352"
+           y="449.52747"
+           style="font-size:2.31097px;stroke-width:0.433308"
+           id="tspan1874">What support do you expect from the relevant the innovation Hub</tspan><tspan
+           sodipodi:role="line"
+           x="17.960352"
+           y="451.83844"
+           style="font-size:2.31097px;stroke-width:0.433308"
+           id="tspan1876"> business incubator</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0970203;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1882"
+         width="21.332201"
+         height="7.351778"
+         x="18.064758"
+         y="516.19086" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347436"
+         x="18.74181"
+         y="618.29694"
+         id="text1886"
+         transform="scale(1.1871681,0.84234069)"><tspan
+           sodipodi:role="line"
+           id="tspan1884"
+           x="18.74181"
+           y="618.29694"
+           style="font-size:1.85299px;stroke-width:0.347436">Submit</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.118183;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1090"
+         width="103.26901"
+         height="4.0197134"
+         x="23.378082"
+         y="292.94708" />
+      <rect
+         y="179.73112"
+         x="23.684399"
+         height="0.17454772"
+         width="67.960342"
+         id="rect1359"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="73.004196"
+         id="text2883"><tspan
+           sodipodi:role="line"
+           id="tspan2881"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="73.004196">What skills set do you have that are relevant to your business</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="76.972946"
+           id="tspan2885" /></text>
+      <rect
+         y="78.307472"
+         x="27.374876"
+         height="21.984318"
+         width="85.191757"
+         id="rect2887"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.126514;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="107.92922"
+         id="text2893"><tspan
+           sodipodi:role="line"
+           id="tspan2889"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="107.92922">Have you raised funding for your innovation </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="111.89797"
+           id="tspan2891" /></text>
+      <text
+         id="text3041"
+         y="113.42728"
+         x="32.097015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         xml:space="preserve"><tspan
+           style="font-size:1.41111px;stroke-width:0.0979309"
+           y="113.42728"
+           x="32.097015"
+           id="tspan3039"
+           sodipodi:role="line">Yes</tspan></text>
+      <rect
+         y="112.01917"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect3043"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         x="32.097015"
+         y="117.13158"
+         id="text3047"><tspan
+           sodipodi:role="line"
+           id="tspan3045"
+           x="32.097015"
+           y="117.13158"
+           style="font-size:1.41111px;stroke-width:0.0979309">No</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3049"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="115.72344" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="123.27507"
+         id="text3157"><tspan
+           sodipodi:role="line"
+           id="tspan3153"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="123.27507">Do you have pending funding application </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="127.24382"
+           id="tspan3155" /></text>
+      <text
+         id="text3161"
+         y="128.24397"
+         x="32.097015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         xml:space="preserve"><tspan
+           style="font-size:1.41111px;stroke-width:0.0979309"
+           y="128.24397"
+           x="32.097015"
+           id="tspan3159"
+           sodipodi:role="line">Yes</tspan></text>
+      <rect
+         y="126.83585"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect3163"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         x="32.097015"
+         y="131.94827"
+         id="text3167"><tspan
+           sodipodi:role="line"
+           id="tspan3165"
+           x="32.097015"
+           y="131.94827"
+           style="font-size:1.41111px;stroke-width:0.0979309">No</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3169"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="130.54013" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="139.15009"
+         id="text3175"><tspan
+           sodipodi:role="line"
+           id="tspan3171"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="139.15009">Is your technology registerd </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="143.11884"
+           id="tspan3173" /></text>
+      <text
+         id="text3179"
+         y="143.58981"
+         x="32.097015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         xml:space="preserve"><tspan
+           style="font-size:1.41111px;stroke-width:0.0979309"
+           y="143.58981"
+           x="32.097015"
+           id="tspan3177"
+           sodipodi:role="line">Yes</tspan></text>
+      <rect
+         y="142.1817"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect3181"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         x="32.097015"
+         y="147.29411"
+         id="text3185"><tspan
+           sodipodi:role="line"
+           id="tspan3183"
+           x="32.097015"
+           y="147.29411"
+           style="font-size:1.41111px;stroke-width:0.0979309">No</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3187"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="145.88597" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="154.49594"
+         id="text3193"><tspan
+           sodipodi:role="line"
+           id="tspan3189"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="154.49594">If yes under what type of registration </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="158.46469"
+           id="tspan3191" /></text>
+      <text
+         id="text3197"
+         y="118.63298"
+         x="43.282803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.90288px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13206"
+         xml:space="preserve"
+         transform="scale(0.74156504,1.3484994)"><tspan
+           style="font-size:1.90288px;stroke-width:0.13206"
+           y="118.63298"
+           x="43.282803"
+           id="tspan3195"
+           sodipodi:role="line">Patents</tspan></text>
+      <rect
+         y="158.58588"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect3199"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.88472px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.130799"
+         x="42.869614"
+         y="122.55041"
+         id="text3203"
+         transform="scale(0.74871249,1.3356262)"><tspan
+           sodipodi:role="line"
+           id="tspan3201"
+           x="42.869614"
+           y="122.55041"
+           style="font-size:1.88472px;stroke-width:0.130799">Trademark</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3205"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="162.29018" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.80082px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.124977"
+         x="40.961411"
+         y="132.11789"
+         id="text3209"
+         transform="scale(0.78359152,1.2761751)"><tspan
+           sodipodi:role="line"
+           id="tspan3207"
+           x="40.961411"
+           y="132.11789"
+           style="font-size:1.80082px;stroke-width:0.124977">Copyright</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3211"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="166.52345" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0614795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3253"
+         width="103.21006"
+         height="0.21538649"
+         x="18.073513"
+         y="468.15073"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:0;stroke-width:0.264583"
+         x="24.172195"
+         y="18.85774"
+         id="text3643"><tspan
+           sodipodi:role="line"
+           id="tspan3641"
+           style="stroke-width:0.264583"></tspan></text>
+      <text
+         id="text4360"
+         y="126.00684"
+         x="34.552258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.56292px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1373"
+         xml:space="preserve"
+         transform="scale(0.71326377,1.4020059)"><tspan
+           style="stroke-width:0.1373"
+           y="126.00684"
+           x="34.552258"
+           id="tspan4358"
            sodipodi:role="line">Technology Information </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.70494px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187723"
+         x="29.175076"
+         y="151.68695"
+         id="text4366"
+         transform="scale(0.81325879,1.2296209)"><tspan
+           sodipodi:role="line"
+           id="tspan4364"
+           x="29.175076"
+           y="151.68695"
+           style="font-size:2.70494px;stroke-width:0.187723">Technology Information sector (Indicate relevant option)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.55735px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.177481"
+         x="35.922798"
+         y="163.75114"
+         id="text4370"
+         transform="scale(0.86019115,1.1625323)"><tspan
+           sodipodi:role="line"
+           id="tspan4368"
+           x="35.922798"
+           y="163.75114"
+           style="font-size:2.55735px;stroke-width:0.177481">Information Technology</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4372"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.82093"
+         y="188.87032" />
+      <text
+         id="text4376"
+         y="195.22746"
+         x="31.541729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.23487px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.155101"
+         xml:space="preserve"
+         transform="scale(0.98431134,1.0159387)"><tspan
+           style="font-size:2.23487px;stroke-width:0.155101"
+           y="195.22746"
+           x="31.541729"
+           id="tspan4374"
+           sodipodi:role="line">Agriculture</tspan></text>
+      <rect
+         y="196.24246"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect4378"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.09927px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14569"
+         x="29.627838"
+         y="211.91954"
+         id="text4382"
+         transform="scale(1.0478956,0.95429352)"><tspan
+           sodipodi:role="line"
+           id="tspan4380"
+           x="29.627838"
+           y="211.91954"
+           style="font-size:2.09927px;stroke-width:0.14569">Health</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4384"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.97732"
+         y="200.33977" />
+      <text
+         id="text4388"
+         y="191.77078"
+         x="31.541729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.23487px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.155101"
+         xml:space="preserve"
+         transform="scale(0.98431134,1.0159387)"><tspan
+           style="font-size:2.23487px;stroke-width:0.155101"
+           y="191.77078"
+           x="31.541729"
+           id="tspan4386"
+           sodipodi:role="line">Energy and Renewable Resource</tspan></text>
+      <rect
+         y="192.73082"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect4390"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.146472;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4392"
+         width="103.16584"
+         height="24.333767"
+         x="23.429676"
+         y="213.38023" />
+      <text
+         id="text4400"
+         y="215.02084"
+         x="22.2733"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.14044px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.401333"
+         xml:space="preserve"
+         transform="scale(1.0277387,0.97300998)"><tspan
+           style="font-size:2.14044px;line-height:1;stroke-width:0.401333"
+           y="215.02084"
+           x="22.2733"
+           id="tspan4394"
+           sodipodi:role="line">Technology Offering (What product/ service does ypur company offer? Also describe the innovative</tspan><tspan
+           style="font-size:2.14044px;line-height:1;stroke-width:0.401333"
+           y="217.16129"
+           x="22.2733"
+           sodipodi:role="line"
+           id="tspan4396">technology used)</tspan><tspan
+           id="tspan4398"
+           y="219.30173"
+           x="22.2733"
+           sodipodi:role="line"
+           style="font-size:2.14044px;line-height:1;stroke-width:0.401333" /></text>
+      <text
+         id="text4404"
+         y="287.87302"
+         x="19.986122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="287.87302"
+           x="19.986122"
+           id="tspan4402"
+           sodipodi:role="line">Stageof Development (Select relevant options) *</tspan></text>
+      <text
+         id="text4408"
+         y="292.35501"
+         x="26.028725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="292.35501"
+           x="26.028725"
+           id="tspan4406"
+           sodipodi:role="line">Idea</tspan></text>
+      <rect
+         y="244.47513"
+         x="23.82093"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect4410"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         x="26.152052"
+         y="300.83398"
+         id="text4414"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           sodipodi:role="line"
+           id="tspan4412"
+           x="26.152052"
+           y="300.83398"
+           style="font-size:1.85299px;stroke-width:0.128598">Research and Development</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4416"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.97732"
+         y="251.84724" />
+      <text
+         id="text4420"
+         y="305.69815"
+         x="26.152052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="305.69815"
+           x="26.152052"
+           id="tspan4418"
+           sodipodi:role="line">Markert Ready</tspan></text>
+      <rect
+         y="255.94449"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect4422"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         x="26.152052"
+         y="296.66504"
+         id="text4426"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           sodipodi:role="line"
+           id="tspan4424"
+           x="26.152052"
+           y="296.66504"
+           style="font-size:1.85299px;stroke-width:0.128598">Product refinement</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4428"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.97732"
+         y="248.33565" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         x="26.028725"
+         y="309.72672"
+         id="text4432"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           sodipodi:role="line"
+           id="tspan4430"
+           x="26.028725"
+           y="309.72672"
+           style="font-size:1.85299px;stroke-width:0.128598">Piloting</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4434"
+         width="4.4702616"
+         height="2.2025862"
+         x="23.82093"
+         y="259.108" />
+      <text
+         id="text4438"
+         y="318.2059"
+         x="26.152052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="318.2059"
+           x="26.152052"
+           id="tspan4436"
+           sodipodi:role="line">Prototype</tspan></text>
+      <rect
+         y="266.48022"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect4440"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text4444"
+         y="314.0368"
+         x="26.152052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128598"
+         xml:space="preserve"
+         transform="scale(1.1871681,0.84234068)"><tspan
+           style="font-size:1.85299px;stroke-width:0.128598"
+           y="314.0368"
+           x="26.152052"
+           id="tspan4442"
+           sodipodi:role="line">Proof of Concept</tspan></text>
+      <rect
+         y="262.96857"
+         x="23.97732"
+         height="2.2025862"
+         width="4.4702616"
+         id="rect4446"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0573296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.44082px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.169393"
+         x="26.326336"
+         y="257.56531"
+         id="text4450"
+         transform="scale(0.90126051,1.1095571)"><tspan
+           sodipodi:role="line"
+           id="tspan4448"
+           x="26.326336"
+           y="257.56531"
+           style="font-size:2.44082px;stroke-width:0.169393">Finances</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0614795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4452"
+         width="103.21006"
+         height="0.21538649"
+         x="23.663458"
+         y="286.49356"
+         ry="0" />
+      <text
+         id="text4456"
+         y="257.40744"
+         x="27.253939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.48611px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172537"
+         xml:space="preserve"
+         transform="scale(0.88484065,1.130147)"><tspan
+           style="font-size:2.48611px;stroke-width:0.172537"
+           y="257.40744"
+           x="27.253939"
+           id="tspan4454"
+           sodipodi:role="line">How much have you invested in the idea to date? * </tspan></text>
+      <text
+         id="text4460"
+         y="269.18323"
+         x="26.653603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.47096px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.171486"
+         xml:space="preserve"
+         transform="scale(0.8902412,1.1232911)"><tspan
+           style="font-size:2.47096px;stroke-width:0.171486"
+           y="269.18323"
+           x="26.653603"
+           id="tspan4458"
+           sodipodi:role="line">Market</tspan></text>
+      <rect
+         ry="0"
+         y="303.75494"
+         x="23.664709"
+         height="0.23037237"
+         width="103.20757"
+         id="rect4462"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0635815;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         y="311.94955"
+         x="23.430933"
+         height="26.026829"
+         width="103.16335"
+         id="rect4464"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15148;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88651px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200325"
+         x="31.645807"
+         y="234.95566"
+         id="text4468"
+         transform="scale(0.76207982,1.3121985)"><tspan
+           sodipodi:role="line"
+           id="tspan4466"
+           x="31.645807"
+           y="234.95566"
+           style="font-size:2.88651px;stroke-width:0.200325">Describe your market in terms of size, geographic location, demographics </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.849px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.197722"
+         x="30.72901"
+         y="276.6629"
+         id="text4472"
+         transform="scale(0.77213315,1.2951134)"><tspan
+           sodipodi:role="line"
+           id="tspan4470"
+           x="30.72901"
+           y="276.6629"
+           style="font-size:2.849px;stroke-width:0.197722">Competitive Advantage</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0614795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4474"
+         width="103.21006"
+         height="0.21538649"
+         x="21.777683"
+         y="360.19913"
+         ry="0" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.146472;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4476"
+         width="103.16584"
+         height="24.333767"
+         x="21.715336"
+         y="371.87476" />
+      <text
+         id="text4480"
+         y="290.35181"
+         x="27.91584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78398px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.193209"
+         xml:space="preserve"
+         transform="scale(0.79016728,1.2655548)"><tspan
+           style="font-size:2.78398px;stroke-width:0.193209"
+           y="290.35181"
+           x="27.91584"
+           id="tspan4478"
+           sodipodi:role="line">What problems (s) would your service or product solve </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.48611px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172537"
+         x="24.154007"
+         y="357.15234"
+         id="text4484"
+         transform="scale(0.88484065,1.130147)"><tspan
+           sodipodi:role="line"
+           x="24.154007"
+           y="357.15234"
+           style="font-size:2.48611px;stroke-width:0.172537"
+           id="tspan4482">Who are your competitors </tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.131315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4486"
+         width="106.00364"
+         height="10.535755"
+         x="20.214468"
+         y="408.22333" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.3123px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.433557"
+         x="20.639799"
+         y="404.21396"
+         id="text4492"
+         transform="scale(0.95135084,1.0511369)"><tspan
+           sodipodi:role="line"
+           x="20.639799"
+           y="404.21396"
+           style="font-size:2.3123px;line-height:1;stroke-width:0.433557"
+           id="tspan4488">How will your product compare to that of your competitors? e.g </tspan><tspan
+           sodipodi:role="line"
+           x="20.639799"
+           y="406.52625"
+           style="font-size:2.3123px;line-height:1;stroke-width:0.433557"
+           id="tspan4490">Usefulness, cost, technological innovation time-to-market, accessibility</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10464px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39462"
+         x="17.007948"
+         y="488.75446"
+         id="text4496"
+         transform="scale(1.0452199,0.95673646)"><tspan
+           sodipodi:role="line"
+           x="17.007948"
+           y="488.75446"
+           style="font-size:2.10464px;line-height:1;stroke-width:0.39462"
+           id="tspan4494">EXPECTED SUPPORT FROM THE RELEVENT THE INNOVATION HUB BUSINESS INCUBATOR</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.228042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4498"
+         width="110.42593"
+         height="30.501478"
+         x="20.271877"
+         y="430.33487" />
+      <rect
+         y="481.94769"
+         x="18.2766"
+         height="30.501478"
+         width="110.42593"
+         id="rect4500"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.228042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31097px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.433308"
+         x="17.960352"
+         y="447.21649"
+         id="text4508"
+         transform="scale(0.95189765,1.0505331)"><tspan
+           sodipodi:role="line"
+           id="tspan4502"
+           x="17.960352"
+           y="447.21649"
+           style="font-size:2.31097px;stroke-width:0.433308" /><tspan
+           sodipodi:role="line"
+           x="17.960352"
+           y="449.52747"
+           style="font-size:2.31097px;stroke-width:0.433308"
+           id="tspan4504">What support do you expect from the relevant the innovation Hub</tspan><tspan
+           sodipodi:role="line"
+           x="17.960352"
+           y="451.83844"
+           style="font-size:2.31097px;stroke-width:0.433308"
+           id="tspan4506"> business incubator</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0970203;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4510"
+         width="21.332201"
+         height="7.351778"
+         x="18.064758"
+         y="516.19086" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.85299px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347436"
+         x="18.74181"
+         y="618.29694"
+         id="text4514"
+         transform="scale(1.1871681,0.84234069)"><tspan
+           sodipodi:role="line"
+           id="tspan4512"
+           x="18.74181"
+           y="618.29694"
+           style="font-size:1.85299px;stroke-width:0.347436">Submit</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.118183;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4516"
+         width="103.26901"
+         height="4.0197134"
+         x="23.378082"
+         y="292.94708" />
+      <rect
+         y="179.73112"
+         x="23.684399"
+         height="0.17454772"
+         width="67.960342"
+         id="rect4518"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="73.004196"
+         id="text4524"><tspan
+           sodipodi:role="line"
+           id="tspan4520"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="73.004196">What skills set do you have that are relevant to your business</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="76.972946"
+           id="tspan4522" /></text>
+      <rect
+         y="78.307472"
+         x="27.374876"
+         height="21.984318"
+         width="85.191757"
+         id="rect4526"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.126514;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="107.92922"
+         id="text4532"><tspan
+           sodipodi:role="line"
+           id="tspan4528"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="107.92922">Have you raised funding for your innovation </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="111.89797"
+           id="tspan4530" /></text>
+      <text
+         id="text4536"
+         y="113.42728"
+         x="32.097015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         xml:space="preserve"><tspan
+           style="font-size:1.41111px;stroke-width:0.0979309"
+           y="113.42728"
+           x="32.097015"
+           id="tspan4534"
+           sodipodi:role="line">Yes</tspan></text>
+      <rect
+         y="112.01917"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect4538"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         x="32.097015"
+         y="117.13158"
+         id="text4542"><tspan
+           sodipodi:role="line"
+           id="tspan4540"
+           x="32.097015"
+           y="117.13158"
+           style="font-size:1.41111px;stroke-width:0.0979309">No</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4544"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="115.72344" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="123.27507"
+         id="text4550"><tspan
+           sodipodi:role="line"
+           id="tspan4546"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="123.27507">Do you have pending funding application </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="127.24382"
+           id="tspan4548" /></text>
+      <text
+         id="text4554"
+         y="128.24397"
+         x="32.097015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         xml:space="preserve"><tspan
+           style="font-size:1.41111px;stroke-width:0.0979309"
+           y="128.24397"
+           x="32.097015"
+           id="tspan4552"
+           sodipodi:role="line">Yes</tspan></text>
+      <rect
+         y="126.83585"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect4556"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         x="32.097015"
+         y="131.94827"
+         id="text4560"><tspan
+           sodipodi:role="line"
+           id="tspan4558"
+           x="32.097015"
+           y="131.94827"
+           style="font-size:1.41111px;stroke-width:0.0979309">No</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4562"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="130.54013" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="139.15009"
+         id="text4568"><tspan
+           sodipodi:role="line"
+           id="tspan4564"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="139.15009">Is your technology registerd </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="143.11884"
+           id="tspan4566" /></text>
+      <text
+         id="text4572"
+         y="143.58981"
+         x="32.097015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         xml:space="preserve"><tspan
+           style="font-size:1.41111px;stroke-width:0.0979309"
+           y="143.58981"
+           x="32.097015"
+           id="tspan4570"
+           sodipodi:role="line">Yes</tspan></text>
+      <rect
+         y="142.1817"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect4574"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
+         x="32.097015"
+         y="147.29411"
+         id="text4578"><tspan
+           sodipodi:role="line"
+           id="tspan4576"
+           x="32.097015"
+           y="147.29411"
+           style="font-size:1.41111px;stroke-width:0.0979309">No</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4580"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="145.88597" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="26.7883"
+         y="154.49594"
+         id="text4586"><tspan
+           sodipodi:role="line"
+           id="tspan4582"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="154.49594">If yes under what type of registration </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="26.7883"
+           y="158.46469"
+           id="tspan4584" /></text>
+      <text
+         id="text4590"
+         y="118.63298"
+         x="43.282803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.90288px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13206"
+         xml:space="preserve"
+         transform="scale(0.74156504,1.3484994)"><tspan
+           style="font-size:1.90288px;stroke-width:0.13206"
+           y="118.63298"
+           x="43.282803"
+           id="tspan4588"
+           sodipodi:role="line">Patents</tspan></text>
+      <rect
+         y="158.58588"
+         x="27.562117"
+         height="1.9912794"
+         width="2.8675287"
+         id="rect4592"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.88472px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.130799"
+         x="42.869614"
+         y="122.55041"
+         id="text4596"
+         transform="scale(0.74871249,1.3356262)"><tspan
+           sodipodi:role="line"
+           id="tspan4594"
+           x="42.869614"
+           y="122.55041"
+           style="font-size:1.88472px;stroke-width:0.130799">Trademark</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4598"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="162.29018" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.80082px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.124977"
+         x="40.961411"
+         y="132.11789"
+         id="text4602"
+         transform="scale(0.78359152,1.2761751)"><tspan
+           sodipodi:role="line"
+           id="tspan4600"
+           x="40.961411"
+           y="132.11789"
+           style="font-size:1.80082px;stroke-width:0.124977">Copyright</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4604"
+         width="2.8675287"
+         height="1.9912794"
+         x="27.562117"
+         y="166.52345" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0614795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4606"
+         width="103.21006"
+         height="0.21538649"
+         x="18.073513"
+         y="468.15073"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="24.187069"
+         y="16.531982"
+         id="text4614"><tspan
+           sodipodi:role="line"
+           id="tspan4610"
+           style="stroke-width:0.264583"
+           x="24.187069"
+           y="16.531982">Idea Name</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="24.187069"
+           y="20.500732"
+           id="tspan4612" /></text>
+      <rect
+         y="20.031265"
+         x="23.185688"
+         height="11.728898"
+         width="91.73687"
+         id="rect4718"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0958923;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="21.496634"
+         y="37.550037"
+         id="text4724"><tspan
+           sodipodi:role="line"
+           id="tspan4720"
+           style="stroke-width:0.264583"
+           x="21.496634"
+           y="37.550037">Goals </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="21.496634"
+           y="41.518787"
+           id="tspan4722" /></text>
+      <rect
+         y="40.209373"
+         x="24.730976"
+         height="21.980446"
+         width="90.502342"
+         id="rect4726"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.130386;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.268173"
-       y="167.58533"
-       id="text1575"><tspan
-         sodipodi:role="line"
-         id="tspan1573"
-         x="61.268173"
-         y="167.58533"
-         style="font-size:1.41111px;stroke-width:0.0979309">Technology Information sector (Indicate relevant option)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="65.869797"
-       y="170.99875"
-       id="text1619"><tspan
-         sodipodi:role="line"
-         id="tspan1617"
-         x="65.869797"
-         y="170.99875"
-         style="font-size:1.41111px;stroke-width:0.0979309">Information Technology</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1621"
-       width="2.8675287"
-       height="1.9912794"
-       x="61.328499"
-       y="169.38286" />
-    <text
-       id="text1625"
-       y="177.45584"
-       x="65.963715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="177.45584"
-         x="65.963715"
-         id="tspan1623"
-         sodipodi:role="line">Agriculture</tspan></text>
-    <rect
-       y="176.04776"
-       x="61.428818"
-       height="1.9912794"
-       width="2.8675287"
-       id="rect1627"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="65.963715"
-       y="181.16006"
-       id="text1631"><tspan
-         sodipodi:role="line"
-         id="tspan1629"
-         x="65.963715"
-         y="181.16006"
-         style="font-size:1.41111px;stroke-width:0.0979309">Health</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1633"
-       width="2.8675287"
-       height="1.9912794"
-       x="61.428818"
-       y="179.75198" />
-    <text
-       id="text1637"
-       y="174.28098"
-       x="65.963715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="174.28098"
-         x="65.963715"
-         id="tspan1635"
-         sodipodi:role="line">Energy and Renewable Resource</tspan></text>
-    <rect
-       y="172.873"
-       x="61.428818"
-       height="1.9912794"
-       width="2.8675287"
-       id="rect1639"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.111543;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1641"
-       width="66.177559"
-       height="21.999289"
-       x="61.077522"
-       y="191.5414" />
-    <text
-       id="text1647"
-       y="188.34715"
-       x="60.732063"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583"
-         y="188.34715"
-         x="60.732063"
-         id="tspan1643"
-         sodipodi:role="line">Technology Offering (What product/ service does ypur company offer? Also describe the innovative</tspan><tspan
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583"
-         y="189.75827"
-         x="60.732063"
-         sodipodi:role="line"
-         id="tspan1649">technology used)</tspan><tspan
-         id="tspan1645"
-         y="191.16937"
-         x="60.732063"
-         sodipodi:role="line"
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583" /></text>
-    <text
-       id="text1653"
-       y="217.85594"
-       x="61.268173"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="217.85594"
-         x="61.268173"
-         id="tspan1651"
-         sodipodi:role="line">Stageof Development (Select relevant options) *</tspan></text>
-    <text
-       id="text1657"
-       y="221.2691"
-       x="65.869797"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="221.2691"
-         x="65.869797"
-         id="tspan1655"
-         sodipodi:role="line">Idea</tspan></text>
-    <rect
-       y="219.65318"
-       x="61.328499"
-       height="1.9912794"
-       width="2.8675287"
-       id="rect1659"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="65.963715"
-       y="227.72609"
-       id="text1663"><tspan
-         sodipodi:role="line"
-         id="tspan1661"
-         x="65.963715"
-         y="227.72609"
-         style="font-size:1.41111px;stroke-width:0.0979309">Research and Development</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1665"
-       width="2.8675287"
-       height="1.9912794"
-       x="61.428818"
-       y="226.31805" />
-    <text
-       id="text1669"
-       y="231.43031"
-       x="65.963715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="231.43031"
-         x="65.963715"
-         id="tspan1667"
-         sodipodi:role="line">Markert Ready</tspan></text>
-    <rect
-       y="230.02222"
-       x="61.428818"
-       height="1.9912794"
-       width="2.8675287"
-       id="rect1671"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="65.963715"
-       y="224.55132"
-       id="text1675"><tspan
-         sodipodi:role="line"
-         id="tspan1673"
-         x="65.963715"
-         y="224.55132"
-         style="font-size:1.41111px;stroke-width:0.0979309">Product refinement</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1677"
-       width="2.8675287"
-       height="1.9912794"
-       x="61.428818"
-       y="223.14334" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="65.869797"
-       y="234.49817"
-       id="text1681"><tspan
-         sodipodi:role="line"
-         id="tspan1679"
-         x="65.869797"
-         y="234.49817"
-         style="font-size:1.41111px;stroke-width:0.0979309">Piloting</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1683"
-       width="2.8675287"
-       height="1.9912794"
-       x="61.328499"
-       y="232.88225" />
-    <text
-       id="text1687"
-       y="240.95534"
-       x="65.963715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="240.95534"
-         x="65.963715"
-         id="tspan1685"
-         sodipodi:role="line">Prototype</tspan></text>
-    <rect
-       y="239.54723"
-       x="61.428818"
-       height="1.9912794"
-       width="2.8675287"
-       id="rect1689"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       id="text1699"
-       y="237.78044"
-       x="65.963715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="237.78044"
-         x="65.963715"
-         id="tspan1697"
-         sodipodi:role="line">Proof of Concept</tspan></text>
-    <rect
-       y="236.37244"
-       x="61.428818"
-       height="1.9912794"
-       width="2.8675287"
-       id="rect1701"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0436582;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.268173"
-       y="257.01425"
-       id="text1705"><tspan
-         sodipodi:role="line"
-         id="tspan1703"
-         x="61.268173"
-         y="257.01425"
-         style="font-size:1.41111px;stroke-width:0.0979309">Finances</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0468185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1713"
-       width="66.205925"
-       height="0.19472323"
-       x="61.227486"
-       y="257.64056"
-       ry="0" />
-    <text
-       id="text1730"
-       y="261.85883"
-       x="61.517387"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="261.85883"
-         x="61.517387"
-         id="tspan1728"
-         sodipodi:role="line">How much have you invested in the idea to date? * </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.517387"
-       y="270.8548"
-       id="text1738"><tspan
-         sodipodi:role="line"
-         id="tspan1736"
-         x="61.517387"
-         y="270.8548"
-         style="font-size:1.41111px;stroke-width:0.0979309">Have you raised any funding for your idea (incl. award money)? * </tspan></text>
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path1746"
-       cx="62.645699"
-       cy="274.90454"
-       r="0.84730721" />
-    <circle
-       r="0.84730721"
-       cy="278.07959"
-       cx="62.645699"
-       id="circle1750"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="64.947128"
-       y="275.54898"
-       id="text1754"><tspan
-         sodipodi:role="line"
-         id="tspan1752"
-         x="64.947128"
-         y="275.54898"
-         style="font-size:1.41111px;stroke-width:0.264583">Yes</tspan></text>
-    <text
-       id="text1758"
-       y="278.72403"
-       x="64.947128"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.264583"
-         y="278.72403"
-         x="64.947128"
-         id="tspan1756"
-         sodipodi:role="line">No</tspan></text>
-    <text
-       id="text1762"
-       y="284.61334"
-       x="61.517387"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="284.61334"
-         x="61.517387"
-         id="tspan1760"
-         sodipodi:role="line">Do you have any pending funding applicaton? * </tspan></text>
-    <circle
-       r="0.84730721"
-       cy="287.60455"
-       cx="62.645699"
-       id="circle1764"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       id="text1768"
-       y="288.24899"
-       x="64.947128"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.264583"
-         y="288.24899"
-         x="64.947128"
-         id="tspan1766"
-         sodipodi:role="line">Yes</tspan></text>
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="circle1770"
-       cx="62.645699"
-       cy="291.83795"
-       r="0.84730721" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:3.9;stroke-dasharray:none"
-       x="64.947128"
-       y="292.48239"
-       id="text1774"><tspan
-         sodipodi:role="line"
-         id="tspan1772"
-         x="64.947128"
-         y="292.48239"
-         style="font-size:1.41111px;stroke-width:0.1;stroke-miterlimit:3.9;stroke-dasharray:none">No</tspan></text>
-    <text
-       id="text1778"
-       y="307.28482"
-       x="61.268173"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="307.28482"
-         x="61.268173"
-         id="tspan1776"
-         sodipodi:role="line">Market</tspan></text>
-    <rect
-       ry="0"
-       y="308.44034"
-       x="61.227486"
-       height="0.19472323"
-       width="66.205925"
-       id="rect1780"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0468185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       y="315.36688"
-       x="61.077522"
-       height="21.999289"
-       width="66.177559"
-       id="rect1786"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.111543;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.517387"
-       y="312.65906"
-       id="text1790"><tspan
-         sodipodi:role="line"
-         id="tspan1788"
-         x="61.517387"
-         y="312.65906"
-         style="font-size:1.41111px;stroke-width:0.0979309">Describe your market in terms of size, geographic location, demographics </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.268173"
-       y="343.26797"
-       id="text1794"><tspan
-         sodipodi:role="line"
-         id="tspan1792"
-         x="61.268173"
-         y="343.26797"
-         style="font-size:1.41111px;stroke-width:0.0979309">Competitive Advantage</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0468185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1796"
-       width="66.205925"
-       height="0.19472323"
-       x="61.227486"
-       y="344.42346"
-       ry="0" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.111543;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1798"
-       width="66.177559"
-       height="21.999289"
-       x="61.077522"
-       y="351.87924" />
-    <text
-       id="text1802"
-       y="349.17136"
-       x="61.517387"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       xml:space="preserve"><tspan
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         y="349.17136"
-         x="61.517387"
-         id="tspan1800"
-         sodipodi:role="line">What problems (s) would your service or product solve </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:214.6;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979309"
-       x="61.517387"
-       y="378.80453"
-       id="text1806"><tspan
-         sodipodi:role="line"
-         x="61.517387"
-         y="378.80453"
-         style="font-size:1.41111px;stroke-width:0.0979309"
-         id="tspan1808">Who are your competitors </tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1812"
-       width="67.997917"
-       height="9.5249996"
-       x="60.334702"
-       y="382.72586" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="61.393036"
-       y="397.8071"
-       id="text1816"><tspan
-         sodipodi:role="line"
-         x="61.393036"
-         y="397.8071"
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583"
-         id="tspan1818">How will your product compare to that of your competitors? e.g </tspan><tspan
-         sodipodi:role="line"
-         x="61.393036"
-         y="399.2182"
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583"
-         id="tspan1822">Usefulness, cost, technological innovation time-to-market, accessibility</tspan></text>
-    <rect
-       y="402.87112"
-       x="60.371529"
-       height="27.575296"
-       width="70.834671"
-       id="rect1824"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.173661;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="59.540962"
-       y="440.14041"
-       id="text1828"><tspan
-         sodipodi:role="line"
-         x="59.540962"
-         y="440.14041"
-         style="font-size:1.41111px;line-height:1;stroke-width:0.264583"
-         id="tspan1830">EXPECTED SUPPORT FROM THE RELEVENT THE INNOVATION HUB BUSINESS INCUBATOR</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.173661;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1844"
-       width="70.834671"
-       height="27.575296"
-       x="60.371529"
-       y="402.87112" />
-    <rect
-       y="402.87112"
-       x="60.371529"
-       height="27.575296"
-       width="70.834671"
-       id="rect1852"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.173661;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.173661;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1860"
-       width="70.834671"
-       height="27.575296"
-       x="60.371529"
-       y="402.87112" />
-    <rect
-       y="453.4071"
-       x="58.651745"
-       height="27.575296"
-       width="70.834671"
-       id="rect1868"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.173661;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="60.863869"
-       y="444.63831"
-       id="text1872"><tspan
-         sodipodi:role="line"
-         id="tspan1870"
-         x="60.863869"
-         y="444.63831"
-         style="font-size:1.41111px;stroke-width:0.264583" /><tspan
-         sodipodi:role="line"
-         x="60.863869"
-         y="446.04941"
-         style="font-size:1.41111px;stroke-width:0.264583"
-         id="tspan1874">What support do you expect from the relevant the innovation Hub</tspan><tspan
-         sodipodi:role="line"
-         x="60.863869"
-         y="447.46054"
-         style="font-size:1.41111px;stroke-width:0.264583"
-         id="tspan1876"> business incubator</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0738839;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1882"
-       width="13.683919"
-       height="6.6464796"
-       x="59.395611"
-       y="487.61984" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="63.509705"
-       y="491.33694"
-       id="text1886"><tspan
-         sodipodi:role="line"
-         id="tspan1884"
-         x="63.509705"
-         y="491.33694"
-         style="font-size:1.41111px;stroke-width:0.264583">Submit</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1084"
-       width="67.345482"
-       height="3.6862791"
-       x="60.587486"
-       y="109.88617" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1090"
-       width="66.243744"
-       height="3.6340792"
-       x="61.044426"
-       y="263.47495" />
-    <rect
-       y="101.94872"
-       x="60.587486"
-       height="3.6862791"
-       width="67.345482"
-       id="rect1092"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1094"
-       width="67.345482"
-       height="3.6862791"
-       x="60.587486"
-       y="79.194725" />
-    <rect
-       y="70.728188"
-       x="60.587486"
-       height="3.6862791"
-       width="67.345482"
-       id="rect1096"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1098"
-       width="67.345482"
-       height="3.6862791"
-       x="60.587486"
-       y="45.328468" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1350"
-       width="67.960342"
-       height="0.17454772"
-       x="60.326683"
-       y="33.267586" />
-    <rect
-       y="59.725578"
-       x="60.326683"
-       height="0.17454772"
-       width="67.960342"
-       id="rect1352"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect1355"
-       width="67.960342"
-       height="0.17454772"
-       x="60.326683"
-       y="98.354401" />
-    <rect
-       y="124.28328"
-       x="60.326683"
-       height="0.17454772"
-       width="67.960342"
-       id="rect1357"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       y="164.5002"
-       x="60.326683"
-       height="0.17454772"
-       width="67.960342"
-       id="rect1359"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0868207;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
 </svg>
