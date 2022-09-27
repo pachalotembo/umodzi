@@ -1,0 +1,13 @@
+ Gate::define('organisation-only', function($user){
+            if ($user->role == 1){
+                return true;
+            }
+            return false;
+        });
+
+        Gate::define('individual-only', function($user){
+            if ($user->role == 2){
+                return true;
+            }
+            return false;
+        });
