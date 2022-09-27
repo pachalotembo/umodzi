@@ -1,3 +1,5 @@
+****Gates for restricting input fields *****  
+
  Gate::define('organisation-only', function($user){
             if ($user->role == 1){
                 return true;
@@ -11,3 +13,30 @@
             }
             return false;
         });
+
+
+****variables for innovation form submission*****
+
+    public $project_name;
+    public $project_goals;
+    public $other_services;
+    public $individual_skills;
+    public $raised_funding;
+    public $project_registration;
+    public $pending_funding;
+    public $registration_type;
+    public $project_type;
+    public $organisation_services;
+    public $development_stage;
+    public $current_invest;
+    public $support_needed = [];
+    public $solve_problems;
+    public $competitors;
+    public $usefulness;
+    public $cost;
+    public $technological_idea;
+    public $time_to_market;
+    public $accessibility;
+    public $market_type = [];
+    public $documents;
+    public $terms;
